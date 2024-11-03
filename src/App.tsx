@@ -7,7 +7,7 @@ import {
     getModeValue,
     getDeviationValue,
 } from './helpers.ts'
-import styles from './Apps.module.scss'
+import styles from './Apps.module.scss';
 let hashMapObj: HashObj = {}
 
 function App() {
