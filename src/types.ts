@@ -1,0 +1,1 @@
+export type HashObj = { [key: string]: number }
